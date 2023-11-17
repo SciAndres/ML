@@ -13,8 +13,8 @@ Los datos se leen desde archivos CSV correspondientes a diferentes años y se re
 ### 3. Exploración y Consolidación de Datos:
 Se exploran estadísticas descriptivas y visualizaciones, y se concatenan los datos en un DataFrame consolidado.
 
-### 4. Persistencia de Modelos:
-El de regresión lineal se entrena y se guardar en extencion .pkl usando joblib para su uso futuro sin necesidad de volver a entrenarlos.
+### 4. Guardar el modelo:
+El modelo de regresión lineal se entrena y se guardar en extencion .pkl usando joblib para su uso futuro sin necesidad de volver a entrenarlos.
 
 ### 5. Integración con Kafka:
 Funciones `kafka_producer` y `kafka_consumer` se implementan para enviar y recibir mensajes con Kafka.
