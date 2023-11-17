@@ -32,7 +32,7 @@ Funciones `kafka_producer` y `kafka_consumer` se implementan para enviar y recib
    - Utiliza las funciones para manipular y explorar los datos según las necesidades.
 
 4. **Modelado y guardado:**
-   - Se entrena un modelo de regresión lineal y se guarda los modelos con extencio .pkl con joblib.dump.
+   - Se entrena un modelo de regresión lineal y se guarda los modelos con extencion .pkl con joblib.dump.
 
 5. **Integración con Kafka:**
    - Configura las funciones `kafka_producer` y `kafka_consumer` según la configuración de tu servidor Kafka.
