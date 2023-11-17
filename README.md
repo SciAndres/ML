@@ -38,7 +38,7 @@ Funciones `kafka_producer` y `kafka_consumer` se implementan para enviar y recib
    - Configura las funciones `kafka_producer` y `kafka_consumer` según la configuración de tu servidor Kafka.
 
 6. **Ejecución del Código:**
-   - Ejecuta el código en un entorno compatible con las bibliotecas mencionadas.
+   - Ejecuta el código en un entorno compatible con las bibliotecas mencionadas, por ejemplo python.
 
 ## Consideraciones
 
