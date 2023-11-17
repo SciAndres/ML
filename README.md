@@ -1,7 +1,7 @@
 # ML
 # ML y streaming
 
-Este conjunto de códigos aborda un flujo de trabajo que incluye manipulación de datos, análisis exploratorio, modelado con regresión lineal, guardar el modelo e integración con Kafka.
+Este conjunto de códigos aborda un flujo de trabajo que incluye manipulación de datos, análisis exploratorio, ml con regresión lineal, guardar el modelo e integración con Kafka.
 ## Estructura de Código
 
 ### 1. Importación de Librerías:
